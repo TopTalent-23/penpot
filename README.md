@@ -8,29 +8,6 @@
   <img alt="penpot header image" src="https://penpot.app/images/readme/github-light-mode.png">
 </picture>
 
-<p align="center">
-<a href="https://www.mozilla.org/en-US/MPL/2.0" rel="nofollow"><img alt="License: MPL-2.0" src="https://img.shields.io/badge/MPL-2.0-blue.svg" style="max-width:100%;"></a>
-<a href="https://community.penpot.app" rel="nofollow"><img alt="Penpot Community" src="https://img.shields.io/discourse/posts?server=https%3A%2F%2Fcommunity.penpot.app" style="max-width:100%;"></a>
-<a href="https://tree.taiga.io/project/penpot/" title="Managed with Taiga.io" rel="nofollow"><img alt="Managed with Taiga.io" src="https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg" style="max-width:100%;"></a>
-<a href="https://gitpod.io/#https://github.com/penpot/penpot" rel="nofollow"><img alt="Gitpod ready-to-code" src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" style="max-width:100%;"></a>
-</p>
-
-<p align="center">
-    <a href="https://penpot.app/"><b>Website</b></a>  •
-    <a href="https://help.penpot.app/user-guide/"><b>User Guide</b></a>  •
-    <a href="https://penpot.app/learning-center"><b>Learning Center</b></a>  •
-    <a href="https://community.penpot.app/"><b>Community</b></a>
-</p>
-<p align="center">
-    <a href="https://www.youtube.com/@Penpot"><b>Youtube</b></a>  •
-    <a href="https://peertube.kaleidos.net/a/penpot_app/video-channels"><b>Peertube</b></a>  •
-    <a href="https://www.linkedin.com/company/penpot/"><b>Linkedin</b></a>  •
-    <a href="https://instagram.com/penpot.app"><b>Instagram</b></a>  •
-    <a href="https://fosstodon.org/@penpot/"><b>Mastodon</b></a>  •
-    <a href="https://bsky.app/profile/penpot.app"><b>Bluesky</b></a>  •
-    <a href="https://twitter.com/penpotapp"><b>X</b></a>
-
-</p>
 
 <br />
 
@@ -38,22 +15,18 @@
 
 <br />
 
-Penpot is the first **open-source** design tool for design and code collaboration. Designers can create stunning designs, interactive prototypes, design systems at scale, while developers enjoy ready-to-use code and make their workflow easy and fast. And all of this with no handoff drama.
+Penpot is the design tool for design and code collaboration. Designers can create stunning designs, interactive prototypes, design systems at scale, while developers enjoy ready-to-use code and make their workflow easy and fast. And all of this with no handoff drama.
 
-Available on browser or self-hosted, Penpot works with open standards like SVG, CSS, HTML and JSON, and it’s free!
+Available on browser or self-hosted, Penpot works with open standards like SVG, CSS, HTML and JSON!
 
 The latest updates take Penpot even further. It’s the first design tool to integrate native [design tokens](https://penpot.dev/collaboration/design-tokens)—a single source of truth to improve efficiency and collaboration between product design and development.
 With the [huge 2.0 release](https://penpot.app/dev-diaries), Penpot took the platform to a whole new level. This update introduces the ground-breaking [CSS Grid Layout feature](https://penpot.app/penpot-2.0), a complete UI redesign, a new Components system, and much more.
-For organizations that need extra service for its teams, [get in touch](https://cal.com/team/penpot/talk-to-us)
 
-🎇 Design, code, and Open Source meet at [Penpot Fest](https://penpot.app/penpotfest)! Be part of the 2025 edition in Madrid, Spain, on October 9-10.
 
 ## Table of contents ##
 
 - [Why Penpot](#why-penpot)
 - [Getting Started](#getting-started)
-- [Community](#community)
-- [Contributing](#contributing)
 - [Resources](#resources)
 - [License](#license)
 
@@ -104,54 +77,6 @@ Learn how to install it with Elestio and Docker, or other options on [our websit
 </p>
 <br />
 
-## Community ##
-
-We love the Open Source software community. Contributing is our passion and if it’s yours too, participate and [improve](https://community.penpot.app/c/help-us-improve-penpot/7) Penpot. All your designs, code and ideas are welcome!
-
-If you need help or have any questions; if you’d like to share your experience using Penpot or get inspired; if you’d rather meet our community of developers and designers, [join our Community](https://community.penpot.app/)!
-
-You will find the following categories:
-- [Ask the Community](https://community.penpot.app/c/ask-for-help-using-penpot/6)
-- [Troubleshooting](https://community.penpot.app/c/technical/8)
-- [Help us Improve Penpot](https://community.penpot.app/c/help-us-improve-penpot/7)
-- [#MadeWithPenpot](https://community.penpot.app/c/madewithpenpot/9)
-- [Events and Announcements](https://community.penpot.app/c/announcements/5)
-- [Inside Penpot](https://community.penpot.app/c/inside-penpot/21)
-- [Penpot in your language](https://community.penpot.app/c/penpot-in-your-language/12)
-- [Design and Code Essentials](https://community.penpot.app/c/design-and-code-essentials/22)
-
-
-<br />
-
-<p align="center">
-  <img src="https://github.com/penpot/penpot/assets/5446186/6ac62220-a16c-46c9-ab21-d24ae357ed03" alt="Community" style="width: 65%;">
-</p>
-<br />
-
-## Contributing ##
-
-Any contribution will make a difference to improve Penpot. How can you get involved?
-
-Choose your way:
-
-- Create and [share Libraries & Templates](https://penpot.app/libraries-templates.html) that will be helpful for the community
-- Invite your [team to join](https://design.penpot.app/#/auth/register)
-- Give this repo a star and follow us on Social Media: [Mastodon](https://fosstodon.org/@penpot/), [Youtube](https://www.youtube.com/c/Penpot), [Instagram](https://instagram.com/penpot.app), [Linkedin](https://www.linkedin.com/company/penpotdesign),  [Peertube](https://peertube.kaleidos.net/a/penpot_app), [X](https://twitter.com/penpotapp) and [BlueSky](https://bsky.app/profile/penpot.app)
-- Participate in the [Community](https://community.penpot.app/) space by asking and answering questions; reacting to others’ articles;  opening your own conversations and following along on decisions affecting the project.
-- Report bugs with our easy [guide for bugs hunting](https://help.penpot.app/contributing-guide/reporting-bugs/) or [GitHub issues](https://github.com/penpot/penpot/issues)
-- Become a [translator](https://help.penpot.app/contributing-guide/translations)
-- Give feedback: [Email us](mailto:support@penpot.app)
-- **Contribute to Penpot's code:** [Watch this video](https://www.youtube.com/watch?v=TpN0osiY-8k) by Alejandro Alonso, CIO and developer at Penpot, where he gives us a hands-on demo of how to use Penpot’s repository and make changes in both front and back end
-
-To find (almost) everything you need to know on how to contribute to Penpot, refer to the [contributing guide](https://help.penpot.app/contributing-guide/).
-
-<br />
-
-<p align="center">
-  <img src="https://github.com/penpot/penpot/assets/5446186/fea18923-dc06-49be-86ad-c3496a7956e6" alt="Libraries and templates" style="width: 65%;">
-</p>
-
-<br />
 
 ## Resources ##
 
@@ -175,6 +100,5 @@ This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-Copyright (c) KALEIDOS INC
+Copyright (c)
 ```
-Penpot is a Kaleidos’ [open source project](https://kaleidos.net/)
